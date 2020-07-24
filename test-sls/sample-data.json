@@ -1,0 +1,12 @@
+[
+  {
+    "NewsID":1,
+    "URL": "http://google.com",
+    "Text": "A random text to use."
+  },
+  {
+    "NewsID":2,
+    "URL": "http://dn.se",
+    "Text": "Över järfälla finns en spåke."
+  }
+]
